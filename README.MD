@@ -10,4 +10,3 @@ lógica computacional e
 <br>
 <br>
 <p align="center"> :pushpin: Você vai precisar:
-- `Funcionalidade 3`: p5.js: <a href="https://editor.p5js.org/"> clique aqui </a> para acessar a biblioteca!
