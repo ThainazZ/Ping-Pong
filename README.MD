@@ -1,4 +1,5 @@
-<h1 align="center"> :tennis: Ping Pong :tennis: </h1>
+<h1 align="center"> :tennis: Joguinho simples para iniciantes :tennis: </h1>
+<img src="https://i.imgur.com/LOjmyJB.png"/>
 <h3 align="center"> Jogo interativo, simples e multiplayer, para iniciantes na programação. </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-FINALIZADO-orange"/>
@@ -9,4 +10,8 @@ lógica computacional e
 
 <br>
 <br>
-<p align="center"> :pushpin: Você vai precisar:
+<p> :pushpin: Você vai precisar:</p>
+<ul> Uma conta no framework p5.Js para iniciar e salvar o seu projeto: <a href="https://editor.p5js.org/">clique aqui para acessar</a>.
+<br>Criatividade para adicionar recursos de lógica computacional no código! </ul>
+
+<h3 align="center">No mais, agradeço aos conhecimentos que adquiri na plataforma Alura!</h3>
