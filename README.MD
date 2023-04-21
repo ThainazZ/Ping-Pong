@@ -10,8 +10,10 @@ lógica computacional e
 
 <br>
 <br>
-<p> :pushpin: Você vai precisar:</p>
+<p> 📌Você vai precisar:</p>
 <ul> Uma conta no framework p5.Js para iniciar e salvar o seu projeto: <a href="https://editor.p5js.org/">clique aqui para acessar</a>.
 <br>Criatividade para adicionar recursos de lógica computacional no código! </ul>
+<p> 📍Como acessar o código:</p>
+<ul> <a href="https://editor.p5js.org/ThainazZ/sketches/YTnzgYx-E">Clique aqui</a> para abrir o código completo no p5.js 🪐</ul>
 
 <h3 align="center">No mais, agradeço aos conhecimentos que adquiri na plataforma Alura!</h3>
